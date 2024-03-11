@@ -72,5 +72,6 @@ We would like to acknowledge the following resources and references that were us
 -   Airbnb Inside:  [http://insideairbnb.com/](http://insideairbnb.com/)  for providing the datasets used in this analysis
 -   Stack Overflow and Kaggle for providing valuable code snippets and discussion forums
 -   The Python Data Science Handbook by Jake VanderPlas for providing guidance on data analysis techniques
+-   Claude 3 for his incredible support <3
 
 Please note that the code and analysis in this project are original and not copied from any other student's work.
