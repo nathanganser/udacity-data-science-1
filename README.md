@@ -7,6 +7,11 @@ This project focuses on analyzing Airbnb listings data to gain insights into the
 
 The motivation behind this project is to understand the factors that influence the success of Airbnb listings and provide insights to hosts and potential hosts to optimize their listings. By analyzing various aspects of Airbnb listings, such as pricing, availability, reviews, and keywords, we aim to identify patterns and trends that contribute to high-performing listings.
 
+## Setup
+### Get the data
+1. Get the three csv files from Kaggle: https://www.kaggle.com/datasets/airbnb/seattle?resource=download
+2. You can open the Google Colab file, upload the three files obtained previously and run through the analysis.
+
 ## Libraries Used
 
 The following libraries were used in this project:
