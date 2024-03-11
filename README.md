@@ -1,6 +1,6 @@
 
 # Airbnb Listings Analysis
-
+<img src="https://files.umso.co/lib_JIXRpABhuZcBQupB/x3l5baxyrb4ufikg.png">
 This project focuses on analyzing Airbnb listings data to gain insights into the rental market and identify factors that contribute to successful listings. The analysis follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology, which includes data understanding, data preparation, modeling, evaluation, and deployment.
 
 ## Introduction
